@@ -301,8 +301,10 @@ class RcModel:
 			remotefolder = 'edision3'
 		elif machinebuild == 'cube':
 			remotefolder = 'cube'
-		elif machinebuild.startswith('ebox'):
+		elif machinebuild = 'ebox5000':
 			remotefolder = 'ebox5000'
+		elif machinebuild = 'ebox5100':
+			remotefolder = 'ebox5100'
 		elif machinebuild == 'e3hd':
 			remotefolder = 'e3hd'
 		elif machinebuild == 'odinm7':
