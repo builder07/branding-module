@@ -132,6 +132,10 @@ if EBOX
 SUBDIRS += ebox5000
 endif
 
+if EBOX
+SUBDIRS += ebox5100
+endif
+
 if ENFINITY
 SUBDIRS += evo1
 endif
