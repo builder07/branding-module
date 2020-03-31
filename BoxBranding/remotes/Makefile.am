@@ -128,11 +128,11 @@ if DREAMBOX
 SUBDIRS += dmm0 dmm1 dmm2
 endif
 
-if EBOX
+if EBOX5000
 SUBDIRS += ebox5000
 endif
 
-if EBOX
+if EBOX5100
 SUBDIRS += ebox5100
 endif
 
